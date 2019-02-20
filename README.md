@@ -11,7 +11,8 @@
 
 If all went well then your command line prompt should now start with `(ENV)`.
 
-7. Install the required packages: 'pip install -r requirements.txt
+7. Install the required packages: `pip install -r requirements.txt`
+8. project should build and run with: `python manage.py runserver`
 
 If your command line prompt does not start with `(Env)` at this point, try running `source ENV/bin/activate` or `cd ../conduit-django`. 
 
